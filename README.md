@@ -10,7 +10,7 @@ The three assets that is 3 different stocks are considered for comparison to che
 * Coefficient of variation (CV) is a statistical measure of relative variability indicating risk per unit return = Standard Deviation of Returns/Expected Rate of Returns
 * With the help of CV, we can check for optimal tradeoff between Expected return and Risk and a better selecting criterion for choosing best assets for Portfolio.
   
-  *The coefficient of variation for various stocks are as follows:
+  ### The coefficient of variation for various stocks are as follows:
 
 * Coefficient of variation of TCS:  3.523605
 * Coefficient of variation of Infosys:  5.51816
